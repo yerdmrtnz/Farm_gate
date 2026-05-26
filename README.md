@@ -1,5 +1,14 @@
 # FarmGate Pay
 
+## CONTRACT ID
+CDT6JO3WNMNXSCAOSEMMJ365635UUH3IW6JM4Q5ZIVVOTGMWSBNSJHGP
+
+## CONTRACT LINK
+https://stellar.expert/explorer/testnet/contract/CDT6JO3WNMNXSCAOSEMMJ365635UUH3IW6JM4Q5ZIVVOTGMWSBNSJHGP
+
+![PICTURE](Stellarrr.png)
+
+
 Instant escrow payments for farmers and produce buyers using Stellar.
 
 ---
